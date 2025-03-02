@@ -1,3 +1,7 @@
+import Header from '../Header';
+import Navbar from '../Navbar';
+import Contact from '../Contact';
+
 const Leftsection = () => {
   return (
     <div className='px-5'>
@@ -9,3 +13,4 @@ const Leftsection = () => {
     </div>
   )
 }
+export default Leftsection
